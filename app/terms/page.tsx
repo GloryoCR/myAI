@@ -22,7 +22,9 @@ export default function Terms() {
             accessing and using Rami ("Chatbot") provided by Gloriana
             ("Provider"), you acknowledge that you have read, understood, and
             agreed to be bound by these Terms of Use. If you do not agree with
-            these terms, do not use Rami.
+            these terms, do not use Rami. Rami is a student-made, capstone project for the MBA
+            742: Data Science and AI Course and is in no way associated with or endorsed by
+            the University of North Carolina at Chapel Hill or the Kenan-Flagler Business School.
           </li>
           <li className="text-gray-700">
             <span className="font-semibold">Purpose and Scope:</span> The Chatbot is
